@@ -5,3 +5,6 @@ This paper is accepted for ACM MM2025.
 
 ### Download pretrained model
 Pretrained model will be found in [DeiT-XXX distilled](https://github.com/facebookresearch/deit/blob/main/README_deit.md).
+
+### Start
+> python train.py
