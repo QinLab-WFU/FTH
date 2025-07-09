@@ -1,5 +1,5 @@
 # Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval
-This paper is accepted for ACM MM2025.
+This paper is accepted for ACMMM 2025.
 
 ## Training
 
