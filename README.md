@@ -8,4 +8,4 @@ Pretrained model will be found in the 30 lines of [CLIP/clip/clip.py](https://gi
 
 ### Start
 
-> python main.py
+> python train.py
