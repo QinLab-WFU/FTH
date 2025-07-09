@@ -4,7 +4,7 @@ This paper is accepted for ACM MM2025.
 ## Training
 
 ### Download pretrained model
-Pretrained model will be found in the 30 lines of [CLIP/clip/clip.py](https://github.com/openai/CLIP/blob/main/clip/clip.py).
+Pretrained model will be found in [DeiT](https://github.com/facebookresearch/deit/blob/main/README_deit.md).
 
 ### Start
 
